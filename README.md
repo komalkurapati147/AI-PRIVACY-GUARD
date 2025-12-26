@@ -1,11 +1,11 @@
-# AI Personal Privacy Guard 🛡️
+# AI  Privacy Guard 🛡️
 
 A real-time AI-powered system designed to ensure privacy in video streams by automatically detecting and blurring human subjects.
 
 ---
 
 ##  Overview
-The **AI Personal Privacy Guard** is a specialized computer vision application. It identifies human presence in a live video feed and applies an instantaneous Gaussian blur to ensure anonymity while keeping the rest of the environment visible.
+The **AI  Privacy Guard** is a specialized computer vision application. It identifies human presence in a live video feed and applies an instantaneous Gaussian blur to ensure anonymity while keeping the rest of the environment visible.
 
 ##  Key Features
 * **Real-time Detection:** Utilizes YOLO11 Nano for high-speed, low-latency inference.
