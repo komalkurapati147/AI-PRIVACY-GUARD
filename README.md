@@ -39,5 +39,3 @@ This project is built using the **Ultralytics YOLO11** framework as the underlyi
     ```
 3.  **Exit:** Press **'q'** on your keyboard to stop the stream.
 
----
-Developed by **Komal Kumar Kurapati**
